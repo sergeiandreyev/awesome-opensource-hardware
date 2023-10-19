@@ -481,6 +481,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Spice simulator
 * [nvc](https://github.com/nickg/nvc)
   * VHDL compiler and simulator
+* [openems](https://github.com/thliebig/openEMS-Project)
+  * Electromagnetic field solver using the FDTD method
 * [pact](https://github.com/peaclab/PACT)
   * Thermal simulator
 * [pysysc](https://github.com/accellera-official/PySysC)
